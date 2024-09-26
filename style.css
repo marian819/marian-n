@@ -1,0 +1,57 @@
+header {
+  color: black;
+  padding: 10px;
+}
+
+body {
+  background-image: url(https://media.istockphoto.com/id/2153852467/de/foto/aufwachsen-des-wirtschaftskonzepts-mit-investitionssymbol-kreative-ideen-der-erfolg-f%C3%BCr.jpg?s=1024x1024&w=is&k=20&c=mX7pHsuKzyiKiMG-MZ6cm8kU4rcSJHTprB9kl3SZgsc=);
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+nav {
+  display: flex;
+  text-align: center;
+  list-style-type: none;
+  background-color: beige;
+  justify-content: flex-end;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+}
+
+.box1 {
+  border: 0px solid blue;
+  padding: 20px 30px;
+  margin: 30px 40px;
+}
+
+nav a:hover {
+  color: red;
+}
+.font-01 {
+  font-family: "Lobster", sans-serif;
+}
+.p-colour {
+  color: white;
+}
+.no-border {
+  border: none;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
